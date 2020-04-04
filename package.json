@@ -1,0 +1,10 @@
+{
+  "name": "cryptoLine",
+  "version": "1.0.0",
+  "description": "Crypto currency command line app",
+  "main": "index.js",
+  "bin": "./bin/cryptoLine",
+  "repository": "https://github.com/aliyev12/cryptoLine.git",
+  "author": "Abdul Aliyev",
+  "license": "MIT"
+}
